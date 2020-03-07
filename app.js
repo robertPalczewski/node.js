@@ -9,11 +9,6 @@ const people = [];
 const max = 78;
 const min = 18;
 
-/*fs.writeFile('outputfile.txt', data, (err) => {
-  if (err) throw err;
-  console.log('The file has been saved!');
-});*/
-
 for (let i = 0;  i < 20; i++) {
   const person = {
     gender: '',
